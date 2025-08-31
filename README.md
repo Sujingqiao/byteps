@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/bytedance/byteps.svg?branch=master)](https://travis-ci.org/bytedance/byteps)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Pypi](https://img.shields.io/pypi/v/byteps.svg)
-'''
+'''text
 common:
 total 464
 -rw-r--r--   1 sujingqiao  staff    28K  8 31 08:22 core_loops.cc
