@@ -6,6 +6,7 @@
 [![Build Status](https://travis-ci.org/bytedance/byteps.svg?branch=master)](https://travis-ci.org/bytedance/byteps)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Pypi](https://img.shields.io/pypi/v/byteps.svg)
+'''
 common:
 total 464
 -rw-r--r--   1 sujingqiao  staff    28K  8 31 08:22 core_loops.cc
@@ -102,6 +103,7 @@ misc:
 total 0
 drwxr-xr-x  3 sujingqiao  staff    96B  8 31 08:23 imagenet18
 -rw-r--r--  1 sujingqiao  staff     0B  8 31 08:22 __init__.py
+'''
 
 BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.
 
